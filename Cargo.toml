@@ -1,0 +1,16 @@
+[package]
+name = "astronomy_engine"
+version = "0.1.0"
+edition = "2021"
+build = "build.rs"
+
+[profile.release]
+panic = "abort"
+
+[lib]
+crate-type = ["staticlib"]
+path = "lib.rs"
+
+[dependencies]
+chrono = { version = "0.4.44", default-features = false }
+sgp4 = { version = "2.4.0", default-features = false, features = ["libm"] }
