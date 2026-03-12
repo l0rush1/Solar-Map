@@ -1,6 +1,6 @@
 ## solar map
 
-small side project that plots satellites and bright stars in the sky using zig and rust. special thanks to Lorisi and Ana for the idea (totally not pressured)
+small side project that lets you see satellites and bright stars in the sky using zig and rust from a specific location. special thanks to Lorisi and Ana for the idea (totally not pressured)
 
 it is not a full product, just a playground for space nerd stuff and some low level ffi experiments. Currently 200 stars rlly small shits hard coded, maybe wil make it better soon or not who knows
 
