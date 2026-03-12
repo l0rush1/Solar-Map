@@ -36,5 +36,7 @@ zig build
 
 you should then find the `solarmap` executable in zig's usual `zig-out/bin` folder.
 
+link to [technical docs](TECHNICAL.md)
+
 creds: lorush1
        Ana & Loris
