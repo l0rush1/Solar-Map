@@ -177,3 +177,6 @@ the zig `main.zig` file is not in this repo, but the setup expects it to:
    - star calls use the constant catalog and rotation math.
 5. everything crossing the boundary is simple c friendly types: pointers, `f64`, and `#[repr(C)]` structs.
 
+creds: lorush1
+      Ana and Lorisi
+
